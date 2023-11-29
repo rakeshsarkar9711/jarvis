@@ -20,7 +20,7 @@ Welcome to Jarvis, your personal assistant currently under development! This pro
 
 1. **Clone the Repository:**
    ```
-   
+   https://github.com/rakeshsarkar9711/jarvis.git
    ```
 
 ## Dependencies
