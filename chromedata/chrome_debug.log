@@ -1,5 +1,0 @@
-[18216:15356:1129/125803.932:WARNING:chrome_main_delegate.cc(660)] This is Chrome version 119.0.6045.160 (not a warning)
-[18216:15356:1129/125804.009:INFO:policy_logger.cc(145)] :components\enterprise\browser\controller\chrome_browser_cloud_management_controller.cc(168) Starting CBCM Controller Initialization
-[18216:15356:1129/125804.009:INFO:policy_logger.cc(145)] :components\enterprise\browser\controller\chrome_browser_cloud_management_controller.cc(196) No machine level policy manager exists.
-[18216:15356:1129/125807.309:ERROR:device_event_log_impl.cc(192)] [12:58:07.309] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
-[18216:15356:1129/125813.496:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
