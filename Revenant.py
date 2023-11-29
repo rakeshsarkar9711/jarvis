@@ -6,6 +6,10 @@ import nltk
 from sklearn.model_selection import train_test_split
 import random
 import warnings
+
+from Clap import MainClapExe
+MainClapExe()
+
 warnings.simplefilter('ignore')
 
 # nltk.download("punkt")

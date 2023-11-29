@@ -1,4 +1,7 @@
-[14992:15100:1128/192405.807:WARNING:chrome_main_delegate.cc(660)] This is Chrome version 119.0.6045.160 (not a warning)
-[14992:15100:1128/192405.866:INFO:policy_logger.cc(145)] :components\enterprise\browser\controller\chrome_browser_cloud_management_controller.cc(168) Starting CBCM Controller Initialization
-[14992:15100:1128/192405.866:INFO:policy_logger.cc(145)] :components\enterprise\browser\controller\chrome_browser_cloud_management_controller.cc(196) No machine level policy manager exists.
-[14992:15100:1128/192410.568:ERROR:device_event_log_impl.cc(192)] [19:24:10.567] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+[20312:19388:1129/122943.815:WARNING:chrome_main_delegate.cc(660)] This is Chrome version 119.0.6045.160 (not a warning)
+[20312:19388:1129/122943.892:INFO:policy_logger.cc(145)] :components\enterprise\browser\controller\chrome_browser_cloud_management_controller.cc(168) Starting CBCM Controller Initialization
+[20312:19388:1129/122943.892:INFO:policy_logger.cc(145)] :components\enterprise\browser\controller\chrome_browser_cloud_management_controller.cc(196) No machine level policy manager exists.
+[20312:19388:1129/122949.827:ERROR:device_event_log_impl.cc(192)] [12:29:49.827] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+[20312:9872:1129/123028.946:WARNING:page_discarding_helper.cc(126)] Discarding multiple pages with target (kb): 0
+[20312:9872:1129/123038.971:WARNING:page_discarding_helper.cc(126)] Discarding multiple pages with target (kb): 0
+[20312:1624:1129/123043.974:WARNING:page_discarding_helper.cc(126)] Discarding multiple pages with target (kb): 0

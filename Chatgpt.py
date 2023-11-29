@@ -8,6 +8,10 @@ import pathlib
 import pyttsx3
 import speech_recognition as sr
 import warnings
+
+from Clap import MainClapExe
+MainClapExe()
+
 warnings.simplefilter('ignore')
 
 # nltk.download("punkt")
